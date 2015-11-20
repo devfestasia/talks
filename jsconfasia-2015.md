@@ -30,7 +30,8 @@ Talks
 - Matt McKegg [@MattMcKegg](https://twitter.com/MattMcKegg) – I Play the JavaScript :question:
 - Hamzeen Hameem [@hamzeen](https://twitter.com/hamzeen) – Unbox Development in Production<br>:fireworks: https://speakerdeck.com/hamzeen/unbox-development-in-production
 - Karen Farzam, WHub HK [@chleozam](https://twitter.com/chleozam) - The route to HTTP/2 :question:
-- Matthew Podwysocki [@mattpodwysocki](https://twitter.com/mattpodwysocki) - Reactive JavaScript at Netflix, Microsoft and the World :question:
+- Matthew Podwysocki [@mattpodwysocki](https://twitter.com/mattpodwysocki) - Reactive JavaScript at Netflix, Microsoft and the World :fireworks:
+https://github.com/mattpodwysocki/jsconfasia-2015
 - Danese Cooper [@DivaDanese](https://twitter.com/DivaDanese) - A keynote :question:
 
 ---
