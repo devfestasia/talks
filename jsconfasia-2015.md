@@ -21,6 +21,10 @@ Talks
 - Sarmad Sangi [@sarmadsangi](https://twitter.com/sarmadsangi) – Towards Universal JavaScript<br>:fireworks: http://slides.com/sarmadsangi/towards-universal-javascript
 - Christian Heilmann [@codepo8](https://twitter.com/codepo8) – Overboard.js [slides](https://www.slideshare.net/cheilmann/overboardjs-where-are-we-going-with-with-jsconfasia-devfestasia) - [screencast](https://www.youtube.com/watch?v=ta2Vwwi8GJY) - [original keynote file](https://www.dropbox.com/sh/q1ruzr0qex849u9/AAAbjIbkEMGVvoAZZZ3xT5G7a?dl=0)
 
+
+### Day 2
+- Tim Messerschmidt [@SeraAndroid](https://twitter.com/SeraAndroid) - Node.js Authentication and Data Security<br>:fireworks: http://www.slideshare.net/TimMesserschmidt/nodejs-authentication-and-data-security (very similiar, but not exact)
+
 ---
 
 :question: - 404 slide not (yet) found, ping the speaker! :smirk:
