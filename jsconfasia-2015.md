@@ -19,7 +19,7 @@ Talks
 - Alexandre Strzelewicz [@strzel_a](https://twitter.com/strzel_a) – Production applications with PM2<br>:fireworks: https://speakerdeck.com/unitech/pm2-presentation-at-jsconf-dot-asia
 - Isaac Johnston [@superstructor](https://twitter.com/superstructor) – Simplicity through Functions :question:
 - Sarmad Sangi [@sarmadsangi](https://twitter.com/sarmadsangi) – Towards Universal JavaScript<br>:fireworks: http://slides.com/sarmadsangi/towards-universal-javascript
-- Christian Heilmann [@codepo8](https://twitter.com/codepo8) – Overboard.js [slides](https://www.slideshare.net/cheilmann/overboardjs-where-are-we-going-with-with-jsconfasia-devfestasia) - [screencast](https://www.youtube.com/watch?v=ta2Vwwi8GJY) - [original keynote file](https://www.dropbox.com/sh/q1ruzr0qex849u9/AAAbjIbkEMGVvoAZZZ3xT5G7a?dl=0)
+- Christian Heilmann [@codepo8](https://twitter.com/codepo8) – Overboard.js<br>:fireworks: https://www.slideshare.net/cheilmann/overboardjs-where-are-we-going-with-with-jsconfasia-devfestasia<br>:video_camera: https://www.youtube.com/watch?v=ta2Vwwi8GJY<br>:page_facing_up: https://www.dropbox.com/sh/q1ruzr0qex849u9/AAAbjIbkEMGVvoAZZZ3xT5G7a?dl=0
 
 ### Day 2
 
@@ -30,7 +30,7 @@ Talks
 - Matt McKegg [@MattMcKegg](https://twitter.com/MattMcKegg) – I Play the JavaScript :question:
 - Hamzeen Hameem [@hamzeen](https://twitter.com/hamzeen) – Unbox Development in Production<br>:fireworks: https://speakerdeck.com/hamzeen/unbox-development-in-production
 - Karen Farzam, WHub HK [@chleozam](https://twitter.com/chleozam) - The route to HTTP/2 :question:
-- Matthew Podwysocki [@mattpodwysocki](https://twitter.com/mattpodwysocki) - Reactive JavaScript at Netflix, Microsoft and the World :fireworks:
+- Matthew Podwysocki [@mattpodwysocki](https://twitter.com/mattpodwysocki) - Reactive JavaScript at Netflix, Microsoft and the World<br>:fireworks:
 https://github.com/mattpodwysocki/jsconfasia-2015
 - Danese Cooper [@DivaDanese](https://twitter.com/DivaDanese) - A keynote :question:
 
