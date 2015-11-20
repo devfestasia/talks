@@ -16,7 +16,7 @@ Talks
 - Tim Oxley [@secoif](https://twitter.com/secoif) – Modular vs Monolith<br>:fireworks: http://www.slideshare.net/timoxley/modular-vs-monolith
 - Paul Adenot [@padenot](https://twitter.com/padenot) – Elements of dance music<br>:fireworks: https://github.com/padenot/jsconf.asia-15/
 - G. Kay Lee [@gsklee](https://twitter.com/gsklee) – Bio-Inspired Frontend Engineering<br>:fireworks: http://slides.com/gsklee/bio-inspired-frontend-engineering
-- Alexandre Strzelewicz [@strzel_a](https://twitter.com/strzel_a) – Production applications with PM2 :question:
+- Alexandre Strzelewicz [@strzel_a](https://twitter.com/strzel_a) – Production applications with PM2<br>:fireworks: https://speakerdeck.com/unitech/pm2-presentation-at-jsconf-dot-asia
 - Isaac Johnston [@superstructor](https://twitter.com/superstructor) – Simplicity through Functions :question:
 - Sarmad Sangi [@sarmadsangi](https://twitter.com/sarmadsangi) – Towards Universal JavaScript<br>:fireworks: http://slides.com/sarmadsangi/towards-universal-javascript
 - Christian Heilmann [@codepo8](https://twitter.com/codepo8) – Overboard.js [slides](https://www.slideshare.net/cheilmann/overboardjs-where-are-we-going-with-with-jsconfasia-devfestasia) - [screencast](https://www.youtube.com/watch?v=ta2Vwwi8GJY) - [original keynote file](https://www.dropbox.com/sh/q1ruzr0qex849u9/AAAbjIbkEMGVvoAZZZ3xT5G7a?dl=0)
