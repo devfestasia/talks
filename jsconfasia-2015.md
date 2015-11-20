@@ -24,8 +24,7 @@ Talks
 ### Day 2
 
 - Mathieu Henri [@p01](https://twitter.com/p01) – Making realtime Audio-Visuals :question:
-- Tim Messerschmidt [@SeraAndroid](https://twitter.com/SeraAndroid) – Node.JS Authentication and Data Security <br>:fireworks:
-http://www.slideshare.net/TimMesserschmidt/nodejs-authentication-and-data-security
+- Tim Messerschmidt [@SeraAndroid](https://twitter.com/SeraAndroid) – Node.JS Authentication and Data Security <br>:fireworks: http://www.slideshare.net/TimMesserschmidt/jsconf-asia-nodejs-authentication-and-data-security
 - Mariko Kosaka [@kosamari](https://twitter.com/kosamari) – Electroknit! - pixel to textile<br>:fireworks: http://kosamari.com/presentation/jsconfasia-2015/
 - Prasanna Kanagasabei [@prasannain](https://twitter.com/prasannain) - Javascript Security - the PenTester's perspective :question:
 - Matt McKegg [@MattMcKegg](https://twitter.com/MattMcKegg) – I Play the JavaScript :question:
