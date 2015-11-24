@@ -29,8 +29,6 @@ Talks
 <br>:fireworks: http://www.p01.org/jsconf_asia_2015/
 <br>:video_camera: https://twitter.com/BlurSpline/status/667535039157047296
 <br>:video_camera: https://twitter.com/pr00t/status/667522316683771904
-<br>:video_camera:
-<br>:video_camera:
 - Tim Messerschmidt [@SeraAndroid](https://twitter.com/SeraAndroid) – Node.JS Authentication and Data Security <br>:fireworks: http://www.slideshare.net/TimMesserschmidt/jsconf-asia-nodejs-authentication-and-data-security
 - Mariko Kosaka [@kosamari](https://twitter.com/kosamari) – Electroknit! - pixel to textile<br>:fireworks: http://kosamari.com/presentation/jsconfasia-2015/
 - Prasanna Kanagasabei [@prasannain](https://twitter.com/prasannain) – Javascript Security - the PenTester's perspective :question:
