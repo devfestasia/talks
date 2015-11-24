@@ -10,6 +10,8 @@ Talks
 
 ### Day 1
 
+- JSPardy :boom:
+<br>:video_camera: https://twitter.com/ryanjsalva/status/667156088274325504
 - Ryan J. Salva [@ryanjsalva](https://twitter.com/ryanjsalva) – The real story behind JS performance in mobile web and hybrid apps… because science! :question:
 - Princiya Sequeira [@princi_ya](https://twitter.com/princi_ya) – Web based 3D camera simulator for Perceptual Computing<br>:fireworks: https://docs.google.com/presentation/d/1iA0m4JyN1wfRmW9UuVWwW9gnG9nWFmJV4IzcMtn24ps/edit?usp=sharing
 - Matthew Campbell [@kanwisher](https://twitter.com/kanwisher) – Story time: Game programming in JavaScript :question:
@@ -23,14 +25,27 @@ Talks
 
 ### Day 2
 
-- Mathieu Henri [@p01](https://twitter.com/p01) – Making realtime Audio-Visuals<br>:fireworks: http://www.p01.org/jsconf_asia_2015/
+- Mathieu Henri [@p01](https://twitter.com/p01) – Making realtime Audio-Visuals
+<br>:fireworks: http://www.p01.org/jsconf_asia_2015/
+<br>:video_camera: https://twitter.com/BlurSpline/status/667535039157047296
+<br>:video_camera: https://twitter.com/pr00t/status/667522316683771904
+<br>:video_camera:
+<br>:video_camera:
 - Tim Messerschmidt [@SeraAndroid](https://twitter.com/SeraAndroid) – Node.JS Authentication and Data Security <br>:fireworks: http://www.slideshare.net/TimMesserschmidt/jsconf-asia-nodejs-authentication-and-data-security
 - Mariko Kosaka [@kosamari](https://twitter.com/kosamari) – Electroknit! - pixel to textile<br>:fireworks: http://kosamari.com/presentation/jsconfasia-2015/
-- Prasanna Kanagasabei [@prasannain](https://twitter.com/prasannain) - Javascript Security - the PenTester's perspective :question:
-- Matt McKegg [@MattMcKegg](https://twitter.com/MattMcKegg) – I Play the JavaScript<br>:fireworks: https://github.com/mmckegg/jsconfasia-talk-2015
+- Prasanna Kanagasabei [@prasannain](https://twitter.com/prasannain) – Javascript Security - the PenTester's perspective :question:
+- Matt McKegg [@MattMcKegg](https://twitter.com/MattMcKegg) – I Play the JavaScript
+<br>:fireworks: https://github.com/mmckegg/jsconfasia-talk-2015
+<br>:video_camera: https://twitter.com/chleozam/status/667612221820633088
+<br>:video_camera: https://twitter.com/nodenow/status/667604095168094208
+<br>:video_camera: https://twitter.com/gsklee/status/668113282696216577
+<br>:video_camera: https://twitter.com/soareschen/status/667580464614379521
+<br>:video_camera: https://twitter.com/xevenheaven/status/667580317033623552
+<br>:video_camera: https://twitter.com/iammaryaswell/status/667579947054043136
+<br>:video_camera: https://twitter.com/RamanShalupau/status/667702813317705729
 - Hamzeen Hameem [@hamzeen](https://twitter.com/hamzeen) – Unbox Development in Production<br>:fireworks: https://speakerdeck.com/hamzeen/unbox-development-in-production
-- Karen Farzam, WHub HK [@chleozam](https://twitter.com/chleozam) - The route to HTTP/2 :question:
-- Matthew Podwysocki [@mattpodwysocki](https://twitter.com/mattpodwysocki) - Reactive JavaScript at Netflix, Microsoft and the World<br>:fireworks:
+- Karen Farzam [@chleozam](https://twitter.com/chleozam) – The route to HTTP/2 :question:
+- Matthew Podwysocki [@mattpodwysocki](https://twitter.com/mattpodwysocki) – Reactive JavaScript at Netflix, Microsoft and the World<br>:fireworks:
 https://github.com/mattpodwysocki/jsconfasia-2015
 - Danese Cooper [@DivaDanese](https://twitter.com/DivaDanese) - A keynote :question:
 
