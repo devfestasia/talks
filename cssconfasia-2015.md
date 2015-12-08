@@ -18,7 +18,7 @@ Moneyball for performance metrics<br>:fireworks: http://www.slideshare.net/jlemb
 - Mark Dalgleish [@markdalgleish](markdalgleish) – The End of Global CSS<br>:fireworks: http://markdalgleish.github.io/presentation-the-end-of-global-css/
 - Glen Maddern [@glenmaddern](https://twitter.com/glenmaddern) – The Rise of Modular Style<br>:fireworks: http://glenmaddern.com/slides/modular-style
 - Apoorv Saxena [@apoorv_saxena](https://twitter.com/apoorv_saxena) – Performance beyond Page Load<br>:fireworks: http://www.slideshare.net/ApoorvSaxena/performance-beyond-page-load
-- Aysha Anggraini [@renettarenula](https://twitter.com/renettarenula) – Responsive Web Bloopers at Viki :question:
+- Aysha Anggraini [@renettarenula](https://twitter.com/renettarenula) – Responsive Web Bloopers at Viki<br>:fireworks: https://speakerdeck.com/renaysha/responsive-web-bloopers-cssconf-asia-2015-by-aysha-anggraini
 - Chris Lilley [@svgeesus](https://twitter.com/svgeesus) – WebFonts: Level up!
 <br>:fireworks: https://github.com/svgeesus/font-level-up
 <br>:video_camera: https://twitter.com/BlurSpline/status/667129824792604673
