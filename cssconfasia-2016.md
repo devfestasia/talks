@@ -9,7 +9,7 @@ Talks
 ---
 
 - :fireworks: Rachel Andrews [@rachelandrew](https://twitter.com/rachelandrew) – [Laying Out The Future With Grid And Flexbox](https://rachelandrew.co.uk/speaking/event/cssconf-asia-2016)
-- :hourglass: Kenneth Ormandy [@kennethormand](https://twitter.com/kennethormandy) - Syntax Highlight Everything
+- :hourglass: Kenneth Ormandy [@kennethormandy](https://twitter.com/kennethormandy) - Syntax Highlight Everything
 - :fireworks: Chris Lienert [@cliener](https://twitter.com/cliener) – [Access All Areas](http://www.slideshare.net/cliener/access-all-areas-cssconf-asia-2016)
 - :fireworks: Soledad Penades [@supersole](https://twitter.com/supersole) – [Make websites, not apps](https://soledadpenades.com/files/t/2016_mwna/)
 - :hourglass: Sarah Drasner [@sarah_edo](https://twitter.com/sarah_edo) - Functional Animation
