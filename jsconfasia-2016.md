@@ -1,9 +1,11 @@
 JSConf.Asia 2016 talks
 ===
 
-:calendar: November 25, 2016
+:calendar: November 25-26, 2016
 
-:earth_asia: Web site: http://2016.jsconf.asia/ Twitter: http://twitter.com/jsconfasia
+:earth_asia: Website: http://2016.jsconf.asia/ 
+
+Twitter: http://twitter.com/jsconfasia
 
 Talks (Day 1)
 ---

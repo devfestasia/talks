@@ -3,7 +3,9 @@ CSSConf.Asia 2016 talks
 
 :calendar: November 24, 2016
 
-:earth_asia: Web site: http://2016.cssconf.asia/ Twitter: http://twitter.com/cssconfasia
+:earth_asia: Website: http://2016.cssconf.asia/ 
+
+Twitter: http://twitter.com/cssconfasia
 
 Talks
 ---
