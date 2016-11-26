@@ -18,4 +18,4 @@ Talks
 - :hourglass: Neha Sharma [@hellonehha](https://twitter.com/hellonehha) - Ten Places Where You Can Ditch JS
 - :hourglass: Luo Shiya [@ShiyaLuo](https://twitter.com/ShiyaLuo) - 3D On The Web
 - :hourglass: Michael Mifsud [@xzyfer](https://twitter.com/xzyfer) - Real World HTTP/2
-- :fireworks: Lea Verou [] - [CSS Variables: var(--subtitle)](https://leaverou.github.io/css-variables/)
+- :fireworks: Lea Verou [@LeaVerou](https://twitter.com/LeaVerou) - [CSS Variables: var(--subtitle)](https://leaverou.github.io/css-variables/)
