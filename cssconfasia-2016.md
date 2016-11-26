@@ -15,8 +15,7 @@ Talks
 - :hourglass: Sarah Drasner [@sarah_edo](https://twitter.com/sarah_edo) - Functional Animation
 - :fireworks: Chris Lilley [@svgeesus](https://twitter.com/svgeesus) - [The Evolution of CSS4 Color](https://www.w3.org/Talks/2016/css4-color-talk/#intro)
 - :fireworks: Chen Hui Jing [@hj_chen](https://twitter.com/hj_chen) - [How I Learn to CSS](https://www.chenhuijing.com/slides/css-conf-2016/)
-- :fireworks: 
 - :hourglass: Neha Sharma [@hellonehha](https://twitter.com/hellonehha) - Ten Places Where You Can Ditch JS
-- :hourclass: Luo Shiya [@ShiyaLuo](https://twitter.com/ShiyaLuo) - 3D On The Web
+- :hourglass: Luo Shiya [@ShiyaLuo](https://twitter.com/ShiyaLuo) - 3D On The Web
 - :hourglass: Michael Mifsud [@xzyfer](https://twitter.com/xzyfer) - Real World HTTP/2
 - :fireworks: Lea Verou [] - [CSS Variables: var(--subtitle)](https://leaverou.github.io/css-variables/)
