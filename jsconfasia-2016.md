@@ -10,11 +10,11 @@ Talks (Day 1)
 
 - :hourglass: [Cheng Zhao](https://twitter.com/zcbenz) - [Electron - A Community Story]()
 - :hourglass: [Kelsey Breseman](https://twitter.com/SelkeyMoonbeam) - [How To Talk To Hardware]()
--:fireworks: [Kenneth Auchenberg](https://twitter.com/auchenberg) - [DevTools Of The Future](https://speakerdeck.com/auchenberg/devtools-of-the-future-jsconf-asia-2016-singapore)
+- :fireworks: [Kenneth Auchenberg](https://twitter.com/auchenberg) - [DevTools Of The Future](https://speakerdeck.com/auchenberg/devtools-of-the-future-jsconf-asia-2016-singapore)
 - :hourglass: [Chengxi Li]() - [Bootstrapping A Lie Streaming React Web App]()
 - :hourglass: [Simon Swain](https://twitter.com/simon_swain) - [Rats Of The Maze](https://ratsofthemaze.com/)
 - :hourglass: [Vito Chin](https://twitter.com/vitoc) - [Automate Your Electronic Life With The JS Ecosystem]()
--:fireworks: [Jan Jongboom](https://twitter.com/janjongboom) - [Run Your JS App For Years On A Coin Cell](http://www.slideshare.net/janjongboom/run-your-javascript-app-for-years-on-a-coin-cell-jsconfasia-2016)
+- :fireworks: [Jan Jongboom](https://twitter.com/janjongboom) - [Run Your JS App For Years On A Coin Cell](http://www.slideshare.net/janjongboom/run-your-javascript-app-for-years-on-a-coin-cell-jsconfasia-2016)
 - :hourglass: [Khang Hoang](https://twitter.com/khanght) - [Vision - Improve Your Workflow]()
 - :fireworks: [Lim Chee Aun](https://twitter.com/cheeaun) - [Bridging Connections](https://speakerdeck.com/cheeaun/bridging-connections)
 
