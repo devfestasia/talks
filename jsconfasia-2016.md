@@ -19,6 +19,8 @@ Talks (Day 1)
 - :fireworks: [Jan Jongboom](https://twitter.com/janjongboom) - [Run Your JS App For Years On A Coin Cell](http://www.slideshare.net/janjongboom/run-your-javascript-app-for-years-on-a-coin-cell-jsconfasia-2016)
 - :hourglass: [Khang Hoang](https://twitter.com/khanght) - [Vision - Improve Your Workflow]()
 - :fireworks: [Lim Chee Aun](https://twitter.com/cheeaun) - [Bridging Connections](https://speakerdeck.com/cheeaun/bridging-connections)
+- :notes: `{ Live : JS }`
+  - :fireworks: [Martin Schuhfuss](https://twitter.com/usefulthink) - [lightAPI](http://slides.com/martinschuhfuss/jsconfasia-2016)
 
 Talks (Day 2)
 ---
