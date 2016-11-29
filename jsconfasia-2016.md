@@ -21,6 +21,7 @@ Talks (Day 1)
 - :fireworks: [Lim Chee Aun](https://twitter.com/cheeaun) - [Bridging Connections](https://speakerdeck.com/cheeaun/bridging-connections)
 - :notes: `{ Live : JS }`
   - :fireworks: [Martin Schuhfuss](https://twitter.com/usefulthink) - [lightAPI](http://slides.com/martinschuhfuss/jsconfasia-2016)
+  - :video_camera: https://www.youtube.com/watch?v=s3fsRnFfyuo
 
 Talks (Day 2)
 ---
